@@ -1,0 +1,10 @@
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\bin\Debug\gdtPublisher.exe.config
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\bin\Debug\gdtPublisher.exe
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\bin\Debug\gdtPublisher.pdb
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.gdtForm.resources
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.Properties.Resources.resources
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.csproj.GenerateResource.cache
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.csproj.CoreCompileInputs.cache
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.exe
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.pdb
+C:\Users\idani\Documents\DESARROLLOS\Elektra\Sincronizador\gdtPublisher\gdtPublisher\obj\Debug\gdtPublisher.csprojAssemblyReference.cache
